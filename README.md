@@ -25,3 +25,5 @@ Supported data-driven insights for policy and planning
 
 🔹 Outcome
 Delivered a user-friendly and interactive dashboard that simplifies complex unemployment data into meaningful insights for analysis and decision-making.
+
+Screenshot Example: https://github.com/Pranavmane1827/Unemployment-Analysis-Dashboard/blob/main/unemployment_snapshot.PNG
